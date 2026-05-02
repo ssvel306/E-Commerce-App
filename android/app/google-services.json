@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23552307806",
+    "project_id": "myflutterapp-e424a",
+    "storage_bucket": "myflutterapp-e424a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23552307806:android:b2997a131de3132e9a7acf",
+        "android_client_info": {
+          "package_name": "com.example.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23552307806-ihucrse2njo4i20ibq0b31qe5nlnm02e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTuI3ZgKgnlokEfq7HJWoQTy4sUYUsKsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23552307806-ihucrse2njo4i20ibq0b31qe5nlnm02e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
